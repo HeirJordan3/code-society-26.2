@@ -1,0 +1,38 @@
+# Resources
+
+[Back to Course Home](README.md)
+
+Use these resources to support coursework, certification study, and day-to-day learning.
+
+## CompTIA A+ Learning Guide
+
+LINK TO BE ADDED
+
+## CertMaster
+
+LINK TO BE ADDED
+
+## Customer Services
+
+LINK TO BE ADDED
+
+Related page: [Customer Services](certification/customer-services.md)
+
+## Course Files
+
+LINK TO BE ADDED
+
+## Practice Resources
+
+LINK TO BE ADDED
+
+## One-on-One Support
+
+Schedule support meetings using the links in [One-on-One Meetings](one-on-one-links.md).
+
+## Related Pages
+
+- [Course Overview](course-overview.md)
+- [Certification Information](certification/README.md)
+- [Assignments](assignments/README.md)
+- [Weekly Schedule](schedule/README.md)
