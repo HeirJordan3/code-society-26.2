@@ -22,6 +22,7 @@ Use it to find the weekly schedule, course expectations, certification informati
 | Page | Description |
 |---|---|
 | [Weekly Schedule](schedule/README.md) | Week-by-week course schedule |
+| [Program Calendar](schedule/README.md#program-calendar) | Milestones and non-class days |
 | [Course Overview](course-overview.md) | Program goals and skill areas |
 | [Student Expectations](expectations.md) | Attendance, participation, and professionalism |
 | [Certification Information](certification/README.md) | CompTIA A+ and Customer Services |
@@ -38,6 +39,8 @@ Use it to find the weekly schedule, course expectations, certification informati
 | Oct 22, 2026 | CompTIA Core 2 Certification Exam |
 | Oct 26, 2026 | Externship Begins |
 | Nov 20, 2026 | Program Completion |
+
+See the full [Program Calendar](schedule/README.md#program-calendar) for milestones, non-class days, and month-by-month key dates.
 
 ## Program Schedule
 

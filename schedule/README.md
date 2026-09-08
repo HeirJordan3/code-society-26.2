@@ -5,17 +5,61 @@
 Use this page to navigate the week-by-week schedule for Code Society 26.2.
 
 **Program dates:** August 31 – November 20, 2026  
-**Structure:** 8 weeks instruction + 4 weeks externship
+**Structure:** 8 weeks instruction + 4 weeks externship  
+**Class days:** Monday–Friday, 9:00 AM – 5:00 PM (unless noted)
 
-## Program Milestones
+For day-by-day topics and student work, open the week pages below.
 
-| Date | Milestone |
+## Program Calendar
+
+Key dates only — milestones, non-class days, and major transitions. Regular instruction days are covered in each week page.
+
+### Non-Class Days
+
+| Date | Reason |
 |---|---|
-| Sep 23, 2026 | CompTIA Core 1 Certification Exam |
-| Oct 12–14, 19, 2026 | Customer Service Training & Certification (Faye Blake) |
-| Oct 22, 2026 | CompTIA Core 2 Certification Exam |
-| Oct 26, 2026 | Externship Begins |
-| Nov 20, 2026 | Program Completion |
+| Mon Sep 7, 2026 | No class — Labor Day |
+
+### August 2026
+
+| Date | Event | Week |
+|---|---|---|
+| Mon Aug 31 | Program start — Orientation / Computer Setup | [Week 1](week-01.md) |
+
+### September 2026
+
+| Date | Event | Week |
+|---|---|---|
+| Mon Sep 7 | No class — Labor Day | [Week 2](week-02.md) |
+| Mon Sep 14 | Core 1 exam prep week begins | [Week 3](week-03.md) |
+| Mon Sep 21 | Core 1 exam prep (final days) | [Week 4](week-04.md) |
+| Wed Sep 23 | **Milestone:** CompTIA Core 1 Certification Exam | [Week 4](week-04.md) |
+| Thu Sep 24 | CompTIA Core 2 begins | [Week 4](week-04.md) |
+| Mon Sep 28 | Core 2 instruction continues | [Week 5](week-05.md) |
+
+### October 2026
+
+| Date | Event | Week |
+|---|---|---|
+| Mon Oct 5 | Core 2 instruction continues | [Week 6](week-06.md) |
+| Mon Oct 12 | Customer Service Training begins (AM) — Faye Blake | [Week 7](week-07.md) |
+| Tue Oct 13 | Customer Service Training (AM) | [Week 7](week-07.md) |
+| Wed Oct 14 | Customer Service Training (AM) | [Week 7](week-07.md) |
+| Mon Oct 19 | **Milestone:** Customer Service Certification Test (AM) | [Week 8](week-08.md) |
+| Thu Oct 22 | **Milestone:** CompTIA Core 2 Certification Exam | [Week 8](week-08.md) |
+| Fri Oct 23 | Externship prep / transition | [Week 8](week-08.md) |
+| Mon Oct 26 | **Milestone:** Externship begins | [Week 9](week-09.md) |
+
+### November 2026
+
+| Date | Event | Week |
+|---|---|---|
+| Mon Nov 2 | Externship continues | [Week 10](week-10.md) |
+| Mon Nov 9 | Externship continues | [Week 11](week-11.md) |
+| Mon Nov 16 | Final externship week begins | [Week 12](week-12.md) |
+| Fri Nov 20 | **Milestone:** Program Completion | [Week 12](week-12.md) |
+
+This schedule may be adjusted based on cohort progress.
 
 ## Weeks 1–12
 
@@ -33,8 +77,6 @@ Use this page to navigate the week-by-week schedule for Code Society 26.2.
 | Week 10 | Nov 2 – 6 | Externship | Upcoming | [Open Week 10](week-10.md) |
 | Week 11 | Nov 9 – 13 | Externship | Upcoming | [Open Week 11](week-11.md) |
 | Week 12 | Nov 16 – 20 | Externship + Program Completion | Upcoming | [Open Week 12](week-12.md) |
-
-This schedule may be adjusted based on cohort progress.
 
 ## Related Pages
 
