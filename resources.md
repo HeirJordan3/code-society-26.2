@@ -8,6 +8,10 @@ Use these resources to support coursework, certification study, and day-to-day l
 
 LINK TO BE ADDED
 
+## Core 1 → CertMaster Map
+
+Use the [Core 1 → CertMaster Map](resources/core-1-certmaster-map.md) to match class Core 1 topics with CertMaster readings, labs, and assessments.
+
 ## CertMaster
 
 LINK TO BE ADDED
@@ -36,3 +40,4 @@ Schedule support meetings using the links in [One-on-One Meetings](one-on-one-li
 - [Certification Information](certification/README.md)
 - [Assignments](assignments/README.md)
 - [Weekly Schedule](schedule/README.md)
+- [Core 1 → CertMaster Map](resources/core-1-certmaster-map.md)

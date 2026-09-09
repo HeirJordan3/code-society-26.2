@@ -31,7 +31,7 @@ Key dates only — milestones, non-class days, and major transitions. Regular in
 | Date | Event | Week |
 |---|---|---|
 | Mon Sep 7 | No class — Labor Day | [Week 2](week-02.md) |
-| Mon Sep 14 | Core 1 exam prep week begins | [Week 3](week-03.md) |
+| Mon Sep 14 | Hardware **3.2** Cables and Connectors | [Week 3](week-03.md) |
 | Mon Sep 21 | Core 1 exam prep (final days) | [Week 4](week-04.md) |
 | Wed Sep 23 | **Milestone:** CompTIA Core 1 Certification Exam | [Week 4](week-04.md) |
 | Thu Sep 24 | CompTIA Core 2 begins | [Week 4](week-04.md) |
@@ -66,8 +66,8 @@ This schedule may be adjusted based on cohort progress.
 | Week | Dates | Focus | Status | Page |
 |---|---|---|---|---|
 | Week 1 | Aug 31 – Sep 4 | Orientation + Core 1 Foundations | Complete | [Open Week 1](week-01.md) |
-| Week 2 | Sep 7 – 11 | Networking, Hardware, and Exam Prep | Current | [Open Week 2](week-02.md) |
-| Week 3 | Sep 14 – 18 | Core 1 Exam Prep | Upcoming | [Open Week 3](week-03.md) |
+| Week 2 | Sep 7 – 11 | Networking Wrap-Up + Displays (3.1) | Complete | [Open Week 2](week-02.md) |
+| Week 3 | Sep 14 – 18 | Hardware + Core 1 Exam Prep | Current | [Open Week 3](week-03.md) |
 | Week 4 | Sep 21 – 25 | Core 1 Exam + Core 2 Begins | Upcoming | [Open Week 4](week-04.md) |
 | Week 5 | Sep 28 – Oct 2 | CompTIA Core 2 | Upcoming | [Open Week 5](week-05.md) |
 | Week 6 | Oct 5 – 9 | CompTIA Core 2 | Upcoming | [Open Week 6](week-06.md) |

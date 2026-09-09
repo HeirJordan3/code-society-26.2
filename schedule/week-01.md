@@ -5,18 +5,20 @@
 
 ## Weekly Goal
 
-Complete orientation and begin CompTIA Core 1 with foundational IT support topics.
+Complete orientation and begin CompTIA Core 1 using the Core 1 topic outline, with matching CertMaster practice.
 
 ## Topics This Week
 
-- What Does an IT Specialist Do
-- Mobile Devices
-- Virtualization and Cloud Computing
-- Networking (introduction / partial coverage)
+- Intro / IT role / methodology (CertMaster Module 1)
+- Mobile Devices (Section 1)
+- Networking start — Ports and Protocols only (Section 2.1)
+- Virtualization and Cloud Computing — full section (Section 4)
 
 ## Certification Alignment
 
-CompTIA A+ Core 1 — 220-1201
+CompTIA A+ Core 1 — 220-1201  
+
+Full map: [Core 1 → CertMaster Map](../resources/core-1-certmaster-map.md)
 
 ## Monday
 
@@ -41,8 +43,7 @@ CompTIA A+ Core 1 — 220-1201
 
 ### Topics
 
-- CompTIA Core 1 foundations
-- What Does an IT Specialist Do
+- Intro / IT role / methodology
 
 ### In Class
 
@@ -50,7 +51,7 @@ CompTIA A+ Core 1 — 220-1201
 
 ### Student Work
 
-- [ ] Complete assigned Core 1 / CertMaster work
+- [ ] CertMaster **1.0–1.4** (What Does an IT Specialist Do? / troubleshooting methodology / Module Quiz)
 
 ## Wednesday
 
@@ -58,16 +59,15 @@ CompTIA A+ Core 1 — 220-1201
 
 ### Topics
 
-- Mobile Devices
-- CompTIA Core 1
+- Mobile Devices (Section 1)
 
 ### In Class
 
-- CompTIA Core 1 instruction
+- Covered Mobile Devices (Section 1)
 
 ### Student Work
 
-- [ ] Complete assigned Core 1 / CertMaster work
+- [ ] CertMaster Module **9** (Supporting Mobile Devices) — readings, labs, and lesson reviews as assigned
 
 ## Thursday
 
@@ -75,16 +75,18 @@ CompTIA A+ Core 1 — 220-1201
 
 ### Topics
 
-- Virtualization and Cloud Computing
-- CompTIA Core 1
+- **2.1** Ports and Protocols
+  - Introduction to IP
+  - Common Ports
 
 ### In Class
 
-- CompTIA Core 1 instruction
+- Started Networking — covered Introduction to IP and Common Ports only
 
 ### Student Work
 
-- [ ] Complete assigned Core 1 / CertMaster work
+- [ ] CertMaster **6.2** TCP/IP Concepts (through transport/application layers as assigned)
+- [ ] CertMaster **6.3** Network Communications / well-known ports (including **6.3.7** Lesson Review)
 
 ## Friday
 
@@ -92,31 +94,36 @@ CompTIA A+ Core 1 — 220-1201
 
 ### Topics
 
-- Networking (introduction)
-- CompTIA Core 1
+- Virtualization and Cloud Computing (Section 4 — all)
+  - Virtualization Concepts / Services
+  - Cloud Models / Characteristics
 
 ### In Class
 
-- CompTIA Core 1 instruction
+- Completed full Section 4
 
 ### Student Work
 
-- [ ] Complete assigned Core 1 / CertMaster work
+- [ ] CertMaster Module **8** (Summarizing Virtualization and Cloud Concepts) — including labs **8.1.3**, **8.1.6**, **8.2.4**, **8.2.6** as assigned and **8.4** Module Quiz
 
 ## What You Should Know Before Leaving This Week
 
-- The role of an IT specialist
-- Foundations of mobile devices
-- Foundations of virtualization and cloud computing
-- Introductory networking concepts (continued in Week 2)
+- IT specialist role and troubleshooting methodology
+- Mobile device foundations (Section 1)
+- IP, TCP/UDP, and common ports (2.1 only — networking continues in Week 2)
+- Virtualization and cloud concepts (Section 4)
 
 ## Required Work
 
-- [ ] Complete Week 1 CertMaster / Core 1 assignments
+- [ ] CertMaster **1.0–1.4**
+- [ ] CertMaster Module **9** (Mobile)
+- [ ] CertMaster **6.2** / **6.3** for Section 2.1
+- [ ] CertMaster Module **8** (Virtualization and Cloud)
 - [ ] Finish any setup tasks from orientation
 
 ## Resources
 
+- [Core 1 → CertMaster Map](../resources/core-1-certmaster-map.md)
 - [CompTIA A+](../certification/comptia-a-plus.md)
 - [Resources](../resources.md)
 

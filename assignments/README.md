@@ -18,9 +18,9 @@ Check each week's schedule page for day-by-day student work and required items.
 
 | Week | Assignment | Due | Status |
 |---|---|---|---|
-| Week 1 | Core 1 / CertMaster work (orientation week) | Sep 4, 2026 | Complete |
-| Week 2 | Networking, Hardware, and Core 1 exam prep work | Sep 11, 2026 | Current |
-| Week 3 | Core 1 exam prep assignments | Sep 18, 2026 | Upcoming |
+| Week 1 | CertMaster Modules **1**, **9**, **8**, and **6.2/6.3** (Section 2.1) | Sep 4, 2026 | Complete |
+| Week 2 | CertMaster Modules **5**, **6**, **7** (Networking 2.2–2.8) + **2.1** display topics (3.1) | Sep 11, 2026 | Complete |
+| Week 3 | Hardware **3.2** + Core 1 exam prep | Sep 18, 2026 | Current |
 | Week 4 | Core 1 Exam + begin Core 2 work | Sep 25, 2026 | Upcoming |
 | Week 5 | Core 2 / CertMaster work | Oct 2, 2026 | Upcoming |
 | Week 6 | Core 2 / CertMaster work | Oct 9, 2026 | Upcoming |

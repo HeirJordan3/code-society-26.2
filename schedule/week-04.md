@@ -19,6 +19,8 @@ CompTIA A+ Core 1 — 220-1201
 CompTIA A+ Core 2 — 220-1202  
 **Milestone:** Core 1 Certification Exam — Wednesday, September 23, 2026
 
+Before the exam (Mon–Tue), use the [Core 1 → CertMaster Map](../resources/core-1-certmaster-map.md) for final Core 1 review. Core 2 CertMaster mapping will be added later.
+
 ## Monday
 
 **Date:** September 21, 2026
@@ -33,7 +35,7 @@ CompTIA A+ Core 2 — 220-1202
 
 ### Student Work
 
-- [ ] Complete assigned exam prep activities
+- [ ] Final review using the Core 1 → CertMaster map (focus on weak sections)
 
 ## Tuesday
 
@@ -49,7 +51,7 @@ CompTIA A+ Core 2 — 220-1202
 
 ### Student Work
 
-- [ ] Complete assigned exam prep activities
+- [ ] Final CertMaster quiz / checkpoint review as assigned
 - [ ] Confirm exam logistics for Wednesday
 
 ## Wednesday
@@ -108,11 +110,13 @@ CompTIA A+ Core 2 — 220-1202
 
 ## Required Work
 
-- [ ] Complete Core 1 exam
-- [ ] Begin Week 4 Core 2 assignments
+- [ ] Mon–Tue: final Core 1 review via [Core 1 → CertMaster Map](../resources/core-1-certmaster-map.md)
+- [ ] Complete Core 1 exam (Wed Sep 23)
+- [ ] Begin Week 4 Core 2 assignments after the exam
 
 ## Resources
 
+- [Core 1 → CertMaster Map](../resources/core-1-certmaster-map.md)
 - [CompTIA A+](../certification/comptia-a-plus.md)
 - [Resources](../resources.md)
 

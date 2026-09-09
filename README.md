@@ -10,7 +10,7 @@ Use it to find the weekly schedule, course expectations, certification informati
 
 ## Start Here
 
-1. Review the [current week's schedule](schedule/week-02.md) (Week 2).
+1. Review the [current week's schedule](schedule/week-03.md) (Week 3).
 2. Check topics being covered.
 3. Complete required assignments and CertMaster work.
 4. Review [certification expectations](certification/README.md).
@@ -29,6 +29,7 @@ Use it to find the weekly schedule, course expectations, certification informati
 | [Assignments](assignments/README.md) | Required coursework by week |
 | [One-on-One Links](one-on-one-links.md) | Meeting links for student support |
 | [Resources](resources.md) | Learning guides and study tools |
+| [Core 1 → CertMaster Map](resources/core-1-certmaster-map.md) | Core 1 topic map for CertMaster work |
 
 ## Program Milestones
 
@@ -47,8 +48,8 @@ See the full [Program Calendar](schedule/README.md#program-calendar) for milesto
 | Week | Dates | Focus | Status |
 |---|---|---|---|
 | [Week 1](schedule/week-01.md) | Aug 31 – Sep 4 | Orientation + Core 1 Foundations | Complete |
-| [Week 2](schedule/week-02.md) | Sep 7 – 11 | Networking, Hardware, and Exam Prep | Current |
-| [Week 3](schedule/week-03.md) | Sep 14 – 18 | Core 1 Exam Prep | Upcoming |
+| [Week 2](schedule/week-02.md) | Sep 7 – 11 | Networking Wrap-Up + Displays (3.1) | Complete |
+| [Week 3](schedule/week-03.md) | Sep 14 – 18 | Hardware + Core 1 Exam Prep | Current |
 | [Week 4](schedule/week-04.md) | Sep 21 – 25 | Core 1 Exam + Core 2 Begins | Upcoming |
 | [Week 5](schedule/week-05.md) | Sep 28 – Oct 2 | CompTIA Core 2 | Upcoming |
 | [Week 6](schedule/week-06.md) | Oct 5 – 9 | CompTIA Core 2 | Upcoming |
