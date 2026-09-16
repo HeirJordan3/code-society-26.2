@@ -49,7 +49,8 @@ See [CompTIA A+](certification/comptia-a-plus.md) for preparation details.
 
 This cohort includes Customer Services training and certification with Faye Blake.
 
-Training and certification dates: October 12–14 and October 19, 2026.
+Training and certification dates: October 12–14 and October 19, 2026.  
+Hours: **9:30 AM – 12:30 PM**. Core 2 continues about **1:00 PM – 5:00 PM** those days.
 
 See [Customer Services](certification/customer-services.md) for details.
 

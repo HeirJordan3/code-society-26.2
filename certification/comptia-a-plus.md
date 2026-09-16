@@ -29,6 +29,8 @@ Students will prepare through:
 ## Related Pages
 
 - [Resources](../resources.md)
+- [Core 1 → CertMaster Map](../resources/core-1-certmaster-map.md)
+- [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 - [Weekly Schedule](../schedule/README.md)
 - [One-on-One Meetings](../one-on-one-links.md)
 - [Customer Services](customer-services.md)

@@ -8,16 +8,20 @@ This cohort includes Customer Services training and certification.
 
 Faye Blake
 
+## Hours
+
+**9:30 AM – 12:30 PM** on scheduled Customer Service days.
+
+After Customer Service ends, CompTIA Core 2 continues approximately **1:00 PM – 5:00 PM**.
+
 ## Schedule
 
-| Date | Activity |
-|---|---|
-| Mon Oct 12, 2026 | Customer Service Training (AM) |
-| Tue Oct 13, 2026 | Customer Service Training (AM) |
-| Wed Oct 14, 2026 | Customer Service Training (AM) |
-| Mon Oct 19, 2026 | Customer Service Certification Test (AM) |
-
-Afternoon sessions on training days continue with CompTIA Core 2.
+| Date | Activity | Time |
+|---|---|---|
+| Mon Oct 12, 2026 | Customer Service Training | 9:30 AM – 12:30 PM |
+| Tue Oct 13, 2026 | Customer Service Training | 9:30 AM – 12:30 PM |
+| Wed Oct 14, 2026 | Customer Service Training | 9:30 AM – 12:30 PM |
+| Mon Oct 19, 2026 | Customer Service Certification Test | 9:30 AM – 12:30 PM |
 
 Additional course details: TBD — Instructor will update this section.
 
