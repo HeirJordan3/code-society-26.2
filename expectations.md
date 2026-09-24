@@ -38,9 +38,22 @@ See [Certification Information](certification/README.md) for details.
 
 ## Asking for Help
 
-Ask for help early when you are stuck.
+Ask for help early when you are stuck — after you have tried to solve the problem yourself.
 
-Use class time, course resources, and [one-on-one meetings](one-on-one-links.md) to get support.
+Follow the **Ask 3, Then Me** golden rule:
+
+1. Check a classmate or peer.
+2. Check another resource (course materials, Google, or AI tools).
+3. Check a third resource or peer.
+4. Then ask staff — bring a clear question about what you have already tried.
+
+Before you ask staff:
+
+- Troubleshoot on your own first.
+- Know exactly what you need help with.
+- Be ready to explain the assignment or lesson involved and the steps you already took.
+
+Use class time, course resources, and [one-on-one meetings](one-on-one-links.md) for support when needed.
 
 ## Communication
 
@@ -48,13 +61,12 @@ Check course communications regularly.
 
 Respond to staff messages promptly and keep instructors informed about blockers that affect your progress.
 
-Official communication channels: TBD — Instructor will update this section.
+Official communication channels:
 
-## Equipment
+1. **Outlook** — Use your `@trainwithcd.com` email for all program email.
+2. **Microsoft Teams** — Use the Microsoft Teams chat provided for the cohort.
 
-Bring required equipment and materials to class each day.
-
-Required equipment list: TBD — Instructor will update this section.
+Staff contact emails are listed on the [One-on-One Meetings](one-on-one-links.md) page.
 
 ## One-on-One Support
 
