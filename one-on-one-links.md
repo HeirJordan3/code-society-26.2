@@ -15,7 +15,7 @@ Students can use one-on-one meetings for:
 
 | Staff Member | Support Area | Link |
 |---|---|---|
-| Jordan Eldridge | Instruction / Certification Support | LINK TO BE ADDED |
+| Jordan Eldridge | Instruction / Certification Support | [Book a meeting](https://bookings.cloud.microsoft/bookwithme/user/3c9c436f63cc4790b3d35351a281dc44%40trainwithcd.com/meetingtype/nZqGB91FsUWJVtIKI8iSSg2?anonymous&ismsaljsauthenabled) |
 
 Additional staff rows can be added to this table as needed.
 
