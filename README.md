@@ -70,15 +70,15 @@ Standard day:
 | Time | Activity |
 |---|---|
 | 9:00 – 9:15 AM | Stand-Up |
-| 9:15 – 10:30 AM | Lecture |
+| 9:15 – 9:30 AM | Brain Teaser / Warm-Up Activity |
+| 9:30 – 10:30 AM | Lecture |
 | 10:30 – 10:45 AM | Break |
-| 10:45 AM – 12:00 PM | Lecture |
-| 12:00 – 1:00 PM | Lunch / Tech Talk when scheduled |
-| 1:00 – 2:30 PM | Lecture / Lab |
+| 10:45 AM – 12:00 PM | CompTIA Modules |
+| 12:00 – 1:00 PM | Lunch |
+| 1:00 – 2:30 PM | Lecture 2 |
 | 2:30 – 2:45 PM | Break |
-| 2:45 – 3:30 PM | Lecture / Applied Practice |
-| 3:30 – 4:45 PM | CertMaster Work / Catch-Up |
-| 4:45 – 5:00 PM | Wrap-Up |
+| 2:45 – 4:45 PM | Study Session / CompTIA Modules / One-on-Ones |
+| 4:45 – 5:00 PM | Wrap-Up / Review Exit Ticket |
 
 ## Staff
 
