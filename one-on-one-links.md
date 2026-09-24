@@ -13,9 +13,11 @@ Students can use one-on-one meetings for:
 
 ## Staff Meeting Links
 
-| Staff Member | Support Area | Link |
-|---|---|---|
-| Jordan Eldridge | Instruction / Certification Support | [Book a meeting](https://bookings.cloud.microsoft/bookwithme/user/3c9c436f63cc4790b3d35351a281dc44%40trainwithcd.com/meetingtype/nZqGB91FsUWJVtIKI8iSSg2?anonymous&ismsaljsauthenabled) |
+| Staff Member | Email | Support Area | Link |
+|---|---|---|---|
+| Jordan Eldridge | jeldridge@trainwithcd.com | Instruction / Certification Support | [Book a meeting](https://bookings.cloud.microsoft/bookwithme/user/3c9c436f63cc4790b3d35351a281dc44%40trainwithcd.com/meetingtype/nZqGB91FsUWJVtIKI8iSSg2?anonymous&ismsaljsauthenabled) |
+| Coreye' Ross | cross@trainwithcd.com | Instruction / Certification Support | LINK TO BE ADDED |
+| Estelle Reddick | ereddick@trainwithcd.com | Professional Development Coach | LINK TO BE ADDED |
 
 Additional staff rows can be added to this table as needed.
 
