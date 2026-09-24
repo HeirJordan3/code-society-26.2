@@ -1,18 +1,20 @@
 # Week 4 — Core 1 Exam + Core 2 Modules 11–12
 
 **Dates:** September 21 – 25, 2026  
-**Status:** Upcoming
+**Status:** Current
 
 ## Weekly Goal
 
-Finish Core 1 exam prep, take the Core 1 exam, and begin Core 2 CertMaster (Modules **11–12**).
+Complete the Core 1 exam and begin compressed Core 2 pacing with Modules **11–12**.
+
+**Pacing note:** Core 2 Modules **11–22** target finish by about **Friday, October 9**. Additional Resources are **optional**.
 
 ## Topics This Week
 
 - Mon–Tue: Core 1 exam prep
-- Wed: Core 1 Certification Exam; **PM start Module 11**
-- Thu: Finish Module **11**
-- Fri: Module **12** (12.1–12.2)
+- Wed: Core 1 Certification Exam
+- Thu: **Module 11** Managing Support Procedures
+- Fri: **Module 12** Configuring Windows
 
 ## Certification Alignment
 
@@ -62,17 +64,14 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 ### Topics
 
 - CompTIA Core 1 Certification Exam
-- **Module 11** Managing Support Procedures (PM start — 11.1 Documentation / ticketing)
 
 ### In Class
 
 - **Milestone:** CompTIA Core 1 Certification Exam
-- After exam / PM: begin CertMaster Module **11.1**
 
 ### Student Work
 
 - [ ] Take the CompTIA Core 1 Certification Exam
-- [ ] Begin Module **11.1** readings; start labs **11.1.13–11.1.15** if assigned
 
 ## Thursday
 
@@ -80,18 +79,22 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- Finish **Module 11** (11.2 Professional Communication · 11.3 OS types · challenge)
+- **Module 11** Managing Support Procedures
+  - Documentation / ticketing
+  - Professional communication
+  - OS overview / file systems
 
 ### In Class
 
-- Core 2 instruction — complete Module **11**
+- Lecture blocks: Module **11** topics  
+- Module blocks: **11.1–11.3** labs and reviews
 
 ### Student Work
 
-- [ ] Labs **11.1.16**, **11.3.8**, **11.4** as assigned
+- [ ] Complete Module **11** topics and labs (**11.1.13–11.1.16**, **11.3.8**, **11.4** as assigned)
 - [ ] Lesson reviews **11.1.17**, **11.2.9**, **11.3.9**
-- [ ] Additional Resources **11.5.3–11.5.6**
 - [ ] **11.6** Module Quiz
+- [ ] Optional: Additional Resources **11.5**
 
 ## Friday
 
@@ -99,28 +102,34 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- **Module 12** Configuring Windows (12.1 User Settings · 12.2 System Settings)
+- **Module 12** Configuring Windows
+  - Windows Settings / Control Panel
+  - Installing applications
+  - Cloud productivity tools
 
 ### In Class
 
-- Core 2 instruction — Module **12.1–12.2**
+- Lecture blocks: Module **12** topics  
+- Module blocks: **12.1–12.4** labs and reviews
 
 ### Student Work
 
-- [ ] Labs **12.1.3**, **12.1.8**, **12.1.13**, **12.2.3**, **12.2.7** as assigned
-- [ ] Lesson reviews **12.1.14**, **12.2.13**
+- [ ] Labs **12.1.3**, **12.1.8**, **12.1.13**, **12.2.3**, **12.2.7**, **12.3.5**, **12.4.6** as assigned
+- [ ] Lesson reviews for **12.1–12.4**
+- [ ] **12.6** Module Quiz
+- [ ] Optional: Additional Resources **12.5**
 
 ## What You Should Know Before Leaving This Week
 
 - Core 1 exam completed
-- Support procedures, ticketing, and professional communication (Module **11**)
-- Windows user and system settings foundations (Module **12** start)
+- Support procedures and ticketing (Module **11**)
+- Windows configuration foundations (Module **12**)
 
 ## Required Work
 
-- [ ] Complete Core 1 exam (Wed)
-- [ ] Finish Module **11** labs, reviews, Additional Resources **11.5**, and **11.6** quiz
-- [ ] Complete assigned Module **12.1–12.2** labs and reviews
+- [ ] Complete Core 1 exam
+- [ ] Finish Modules **11** and **12** required labs, reviews, and quizzes
+- [ ] Optional Additional Resources only if assigned
 
 ## Resources
 

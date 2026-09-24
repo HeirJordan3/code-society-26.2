@@ -10,7 +10,7 @@ Use it to find the weekly schedule, course expectations, certification informati
 
 ## Start Here
 
-1. Review the [current week's schedule](schedule/week-03.md) (Week 3).
+1. Review the [current week's schedule](schedule/week-04.md) (Week 4).
 2. Check topics being covered.
 3. Complete required assignments and CertMaster work.
 4. Review [certification expectations](certification/README.md).
@@ -50,12 +50,12 @@ See the full [Program Calendar](schedule/README.md#program-calendar) for milesto
 |---|---|---|---|
 | [Week 1](schedule/week-01.md) | Aug 31 – Sep 4 | Orientation + Core 1 Foundations | Complete |
 | [Week 2](schedule/week-02.md) | Sep 7 – 11 | Networking Wrap-Up + Displays (3.1) | Complete |
-| [Week 3](schedule/week-03.md) | Sep 14 – 18 | Hardware + Core 1 Exam Prep | Current |
-| [Week 4](schedule/week-04.md) | Sep 21 – 25 | Core 1 Exam + Core 2 Modules 11–12 | Upcoming |
-| [Week 5](schedule/week-05.md) | Sep 28 – Oct 2 | Core 2 Modules 12–14 | Upcoming |
-| [Week 6](schedule/week-06.md) | Oct 5 – 9 | Core 2 Modules 14–17 | Upcoming |
-| [Week 7](schedule/week-07.md) | Oct 12 – 16 | CS Training + Core 2 Modules 17–20 | Upcoming |
-| [Week 8](schedule/week-08.md) | Oct 19 – 23 | CS Cert + Modules 20–22 + Core 2 Exam | Upcoming |
+| [Week 3](schedule/week-03.md) | Sep 14 – 18 | Hardware + Core 1 Exam Prep | Complete |
+| [Week 4](schedule/week-04.md) | Sep 21 – 25 | Core 1 Exam + Core 2 Modules 11–12 | Current |
+| [Week 5](schedule/week-05.md) | Sep 28 – Oct 2 | Core 2 Modules 13–17 (start) | Upcoming |
+| [Week 6](schedule/week-06.md) | Oct 5 – 9 | Core 2 Modules 17–22 (content finish) | Upcoming |
+| [Week 7](schedule/week-07.md) | Oct 12 – 16 | CS Training + Core 2 Review Buffer | Upcoming |
+| [Week 8](schedule/week-08.md) | Oct 19 – 23 | CS Cert + Core 2 Exam + Externship Prep | Upcoming |
 | [Week 9](schedule/week-09.md) | Oct 26 – Oct 30 | Externship | Upcoming |
 | [Week 10](schedule/week-10.md) | Nov 2 – 6 | Externship | Upcoming |
 | [Week 11](schedule/week-11.md) | Nov 9 – 13 | Externship | Upcoming |

@@ -1,7 +1,7 @@
 # Week 3 — Hardware + Core 1 Exam Prep
 
 **Dates:** September 14 – 18, 2026  
-**Status:** Current
+**Status:** Complete
 
 ## Weekly Goal
 

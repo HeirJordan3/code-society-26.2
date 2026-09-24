@@ -4,29 +4,38 @@
 
 Students prepare for CompTIA A+ **Core 2 (220-1202)** using CertMaster Modules **11–22**.
 
-Class follows this module order. Complete matching readings, labs, Additional Resources exercises, lesson reviews, and module quizzes as assigned.
+Class follows this module order. Complete matching readings, labs, lesson reviews, and module quizzes as assigned. **Additional Resources exercises are optional** unless instructors mark them required.
 
 CertMaster login: LINK TO BE ADDED  
 Full Core 2 pacing: [Week 4](../schedule/week-04.md) through [Week 8](../schedule/week-08.md)
 
-## Teaching Order Summary
+## Teaching Order Summary (Compressed Plan)
 
-| Module | Focus | Target week |
+Target: finish Modules **11–22** by about **Friday, October 9** (Module **22** may spill to **Monday, October 12 afternoon** only if needed).  
+Oct 12–14 Customer Service mornings; Oct 15–21 study buffer before Core 2 exam **October 22**.
+
+| Module | Focus | Target day |
 |---|---|---|
-| **11** | Managing Support Procedures | Week 4 (Wed–Thu) |
-| **12** | Configuring Windows | Week 4 Fri – Week 5 Mon |
-| **13** | Managing Windows | Week 5 |
-| **14** | Supporting Windows | Week 5 Fri – Week 6 Mon |
-| **15** | Securing Windows | Week 6 |
-| **16** | Installing Operating Systems | Week 6 |
-| **17** | Supporting Other OS | Week 6 Fri – Week 7 Mon |
-| **18** | Configuring SOHO Network Security | Week 7 |
-| **19** | Managing Security Settings | Week 7 |
-| **20** | Supporting Mobile Software | Week 8 Mon |
-| **21** | Using Data Security | Week 8 Tue |
-| **22** | Implementing Operational Procedures | Week 8 Tue–Wed |
+| **11** | Managing Support Procedures | Thu Sep 24 |
+| **12** | Configuring Windows | Fri Sep 25 |
+| **13** | Managing Windows | Mon Sep 28 |
+| **14** | Supporting Windows | Tue Sep 29 |
+| **15.1–15.2** | Securing Windows (start) | Wed Sep 30 (PD 1:00–3:00 PM) |
+| **15.3 + 16** | Shares + Installing OS | Thu Oct 1 |
+| **17.1–17.2** | Linux | Fri Oct 2 |
+| **17.3 + start 18** | macOS + threats intro | Mon Oct 5 |
+| **18** | SOHO Network Security | Tue Oct 6 |
+| **19.1–19.3** | Security settings | Wed Oct 7 (PD 1:00–3:00 PM) |
+| **19.4 + 20** | Malware TS + Mobile Software | Thu Oct 8 |
+| **21 + 22** | Data Security + Operational Procedures | Fri Oct 9 (22 spill Oct 12 PM if needed) |
 
 **Milestone:** Core 2 Certification Exam — Thursday, October 22, 2026
+
+## Constraints
+
+- **Wednesdays:** Professional Development **1:00–3:00 PM** — lighter Core 2 after 3:00.
+- **Oct 12–14:** Customer Service **9:30 AM – 12:30 PM** — Core 2 afternoon catch-up/review only.
+- **Oct 15–21:** Study buffer / practice exams / remediation before the exam.
 
 ## Homework Pattern
 
@@ -35,8 +44,8 @@ For each module:
 1. Complete Topic readings covered in class.
 2. Complete assigned Labs.
 3. Complete Lesson Review(s).
-4. Complete **Additional Resources** readings and exercises for that module.
-5. When the module ends: Module Quiz (and Checkpoint Review if listed).
+4. When the module ends: Module Quiz (and Checkpoint Review if listed).
+5. **Additional Resources** — optional unless marked required.
 
 ---
 

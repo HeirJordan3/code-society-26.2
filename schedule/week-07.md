@@ -1,23 +1,27 @@
-# Week 7 — CS Training + Core 2 Modules 17–20
+# Week 7 — CS Training + Core 2 Catch-Up / Review Buffer
 
 **Dates:** October 12 – 16, 2026  
 **Status:** Upcoming
 
 ## Weekly Goal
 
-Complete Customer Service training (mornings) while finishing Module **17** and covering Modules **18–19** (start **20** if time).
+Complete Customer Service training mornings and use Core 2 afternoons for catch-up, practice exams, and remediation — not heavy new module content.
+
+**Customer Service:** **9:30 AM – 12:30 PM** (Mon–Wed)  
+**Core 2:** afternoon only those days  
+**Wednesday:** Professional Development **1:00–3:00 PM** (Core 2 only after ~3:00)  
+**Thu–Fri:** study buffer / practice exams before exam week
 
 ## Topics This Week
 
-- Mon–Wed: Customer Service Training **9:30 AM – 12:30 PM**; Core 2 **~1:00–5:00 PM**
-- Mon PM: Finish **17** (macOS · challenge · checkpoint)
-- Tue PM: **18.1** Threats
-- Wed PM: Finish **18**
-- Thu–Fri: Full Core 2 — Module **19** (start **20** Fri if time)
+- Mon: CS AM · PM finish Module **22** if needed / catch-up
+- Tue: CS AM · PM Practice Exam 1 + review
+- Wed: CS AM · PD 1:00–3:00 · short readiness / catch-up after 3:00
+- Thu–Fri: Practice exams, weak-spot review, one-on-ones as needed
 
 ## Certification Alignment
 
-Customer Services certification (test Week 8)  
+Customer Services training (cert test Week 8)  
 CompTIA A+ Core 2 — 220-1202  
 
 CS hours: [Customer Services](../certification/customer-services.md)  
@@ -30,19 +34,18 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 ### Topics
 
 - Customer Service Training
-- Finish **Module 17** (17.3 macOS · challenge)
+- Core 2 catch-up (Module **22** spill only if needed)
 
 ### In Class
 
-- **9:30 AM – 12:30 PM:** Customer Service Training (Faye Blake)
-- **~1:00–5:00 PM:** Core 2 — finish Module **17**
+- **9:30 AM – 12:30 PM:** Customer Service Training (Faye Blake)  
+- **~1:00–5:00 PM:** Finish Module **22** if open; otherwise quiz catch-up / weak areas
 
 ### Student Work
 
 - [ ] Complete Customer Service training activities
-- [ ] **17.3.11** Lesson Review · lab **17.4**
-- [ ] Additional Resources **17.5.3–17.5.6**
-- [ ] **17.6** Module Quiz · **17.7** Checkpoint Review
+- [ ] Close Module **22** if still open (**22.5** / **22.6**)
+- [ ] Catch up any open Core 2 quizzes/checkpoints
 
 ## Tuesday
 
@@ -51,18 +54,18 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 ### Topics
 
 - Customer Service Training
-- **Module 18** — **18.1** Attacks, Threats, and Vulnerabilities
+- Practice Exam 1 + missed-question review
 
 ### In Class
 
-- **9:30 AM – 12:30 PM:** Customer Service Training
-- **~1:00–5:00 PM:** Core 2 — Module **18.1**
+- **9:30 AM – 12:30 PM:** Customer Service Training  
+- **~1:00–5:00 PM:** Practice Exam 1, review misses, one-on-ones as needed
 
 ### Student Work
 
 - [ ] Complete Customer Service training activities
-- [ ] Labs **18.1.3**, **18.1.9** as assigned
-- [ ] **18.1.10** Lesson Review
+- [ ] Complete Practice Exam 1 as assigned
+- [ ] Review missed questions / schedule staff support if needed
 
 ## Wednesday
 
@@ -71,20 +74,19 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 ### Topics
 
 - Customer Service Training
-- Finish **Module 18** (18.2–18.4 · challenge)
+- Professional Development
+- Short Core 2 readiness block
 
 ### In Class
 
-- **9:30 AM – 12:30 PM:** Customer Service Training
-- **~1:00–5:00 PM:** Core 2 — complete Module **18**
+- **9:30 AM – 12:30 PM:** Customer Service Training  
+- **1:00–3:00 PM:** Professional Development  
+- **~3:00–5:00 PM:** Short Practice Exam 2 snippet and/or readiness check-ins
 
 ### Student Work
 
 - [ ] Complete Customer Service training activities
-- [ ] Labs **18.3.2**, **18.4.2**, **18.5** as assigned
-- [ ] Lesson reviews **18.2.6**, **18.3.10**, **18.4.5**
-- [ ] Additional Resources **18.6.3–18.6.7**
-- [ ] **18.7** Module Quiz
+- [ ] Complete assigned short review / readiness tasks after PD
 
 ## Thursday
 
@@ -92,16 +94,16 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- **Module 19** Managing Security Settings — **19.1** Account Security · **19.2** Workstation Security
+- Core 2 study buffer / practice exams / remediation
 
 ### In Class
 
-- Full-day Core 2 — Module **19.1–19.2**
+- Full-day review — practice exams, PBQs, weak domains from checkpoints
 
 ### Student Work
 
-- [ ] Labs **19.1.2**, **19.1.9**, **19.1.10**, **19.2.7**, **19.2.11**, **19.2.13**, **19.2.14** as assigned
-- [ ] Lesson reviews **19.1.11**, **19.2.15**
+- [ ] Complete assigned practice exam / remediation work
+- [ ] Use [Cram Quest](https://cram-quest.netlify.app/) and CertMaster review as directed
 
 ## Friday
 
@@ -109,38 +111,34 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- Finish **Module 19** (19.3 Browser · 19.4 Malware TS)
-- Start **Module 20** readings if time
+- Core 2 study buffer / practice exams / remediation
 
 ### In Class
 
-- Full-day Core 2 — complete Module **19**; introduce Module **20** if time
+- Full-day review — continue practice exams and one-on-ones as needed
 
 ### Student Work
 
-- [ ] Labs **19.3.2**, **19.3.4**, **19.3.10**, **19.5** as assigned
-- [ ] Lesson reviews **19.3.11**, **19.4.13**
-- [ ] Additional Resources **19.6.3–19.6.7**
-- [ ] **19.7** Module Quiz
-- [ ] Begin **20.1** readings if assigned
+- [ ] Complete assigned practice exam / remediation work
+- [ ] Confirm readiness plan for Week 8 / Core 2 exam
 
 ## What You Should Know Before Leaving This Week
 
-- Customer Service training concepts from Oct 12–14
-- Module **17** complete
-- SOHO security (Module **18**)
-- Windows security settings (Module **19**)
+- Customer Service training complete for Oct 12–14
+- Core 2 content closed (Modules **11–22**)
+- Clear list of weak areas to remediate before Oct 22
 
 ## Required Work
 
 - [ ] Complete Customer Service training for Oct 12–14
-- [ ] Finish Modules **17–19** labs, reviews, Additional Resources, and quizzes/checkpoints as assigned
-- [ ] Catch up any open Core 2 items before Week 8
+- [ ] Close any remaining Core 2 module requirements
+- [ ] Complete assigned practice exams / remediation
 
 ## Resources
 
 - [Customer Services](../certification/customer-services.md)
 - [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
+- [Cram Quest](https://cram-quest.netlify.app/)
 - [CompTIA A+](../certification/comptia-a-plus.md)
 - [Resources](../resources.md)
 

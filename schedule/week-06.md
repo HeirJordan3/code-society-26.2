@@ -1,19 +1,23 @@
-# Week 6 — Core 2 Modules 14–17
+# Week 6 — Core 2 Modules 17–22 (Content Finish Target)
 
 **Dates:** October 5 – 9, 2026  
 **Status:** Upcoming
 
 ## Weekly Goal
 
-Finish Module **14**, complete Modules **15–16**, and start Module **17** (Linux). Aim to finish through Module **17** start before Customer Service week.
+Finish Core 2 CertMaster Modules **17–22** by about **Friday, October 9**.
+
+**Constraints:** Wednesday **Professional Development 1:00–3:00 PM**.  
+**Spill valve:** If Module **22** is not finished Friday, complete it **Monday, October 12 afternoon only** (after Customer Service).  
+**Additional Resources:** optional.
 
 ## Topics This Week
 
-- Mon: Finish **14** (14.3–14.4 · challenges · checkpoint)
-- Tue: **15.1–15.2** Securing Windows
-- Wed: **15.3** Shares · challenge
-- Thu: **Module 16** Installing OS
-- Fri: **Module 17** Linux start (17.1–17.2)
+- Mon: Finish **17** (macOS) + start **18**
+- Tue: **Module 18** SOHO Network Security
+- Wed: **Module 19.1–19.3** (PD 1:00–3:00 PM)
+- Thu: **Module 19.4** + **Module 20**
+- Fri: **Module 21** + **Module 22** (tightest day)
 
 ## Certification Alignment
 
@@ -27,17 +31,19 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- Finish **Module 14** (14.3 Performance tools · 14.4 OS problems · challenges)
+- Finish **Module 17** (17.3 macOS)
+- Start **Module 18.1** threats intro
 
 ### In Class
 
-- Core 2 instruction — complete Module **14**
+- Full-day Core 2 — complete **17**, begin **18**
 
 ### Student Work
 
-- [ ] Labs **14.3.10**, **14.4.3**, **14.4.5**, **14.4.9**, **14.4.14**, **14.5**, **14.6** as assigned
-- [ ] Additional Resources **14.7.3–14.7.6**
-- [ ] **14.8** Module Quiz · **14.9** Checkpoint Review
+- [ ] **17.3.11** Lesson Review · lab **17.4**
+- [ ] **17.6** Module Quiz · **17.7** Checkpoint Review
+- [ ] Begin **18.1** readings/labs as assigned
+- [ ] Optional: Additional Resources **17.5**
 
 ## Tuesday
 
@@ -45,16 +51,17 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- **Module 15** Securing Windows — **15.1** Logical Security · **15.2** Windows Security Settings
+- **Module 18** Configuring SOHO Network Security (heavy day)
 
 ### In Class
 
-- Core 2 instruction — accounts, authentication, AD/GPO foundations
+- Full-day Core 2 — Module **18**; unfinished work = homework
 
 ### Student Work
 
-- [ ] Labs **15.1.8**, **15.2.3**, **15.2.5**, **15.2.6** as assigned
-- [ ] Lesson reviews **15.1.11**, **15.2.7**
+- [ ] Labs **18.1–18.4** and challenge **18.5** as assigned
+- [ ] **18.7** Module Quiz
+- [ ] Optional: Additional Resources **18.6**
 
 ## Wednesday
 
@@ -62,18 +69,19 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- **15.3** Windows Shares · challenge lab
+- **Module 19.1–19.3** Managing Security Settings
+- Professional Development
 
 ### In Class
 
-- Core 2 instruction — shares, NTFS permissions, domain support
+- Morning: Core 2 lecture / Module **19.1–19.3**  
+- **1:00–3:00 PM:** Professional Development  
+- **~3:00–4:45 PM:** Module **19** labs
 
 ### Student Work
 
-- [ ] Labs **15.3.6**, **15.3.11**, **15.4** as assigned
-- [ ] **15.3.12** Lesson Review
-- [ ] Additional Resources **15.5.3–15.5.6**
-- [ ] **15.6** Module Quiz
+- [ ] Labs for **19.1–19.3** as assigned (passwords, Defender, EFS, BitLocker, browser)
+- [ ] Lesson reviews **19.1.11**, **19.2.15**, **19.3.11**
 
 ## Thursday
 
@@ -81,18 +89,18 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- **Module 16** Installing Operating Systems (16.1 Editions · 16.2 Installs/Upgrades)
+- **Module 19.4** Troubleshoot Workstation Security
+- **Module 20** Supporting Mobile Software (heavy day)
 
 ### In Class
 
-- Core 2 instruction — Windows editions and installation/upgrade methods
+- Full-day Core 2 — finish **19**, cover **20**
 
 ### Student Work
 
-- [ ] Labs **16.1.6**, **16.2.6**, **16.3** as assigned
-- [ ] Lesson reviews **16.1.7**, **16.2.7**
-- [ ] Additional Resources **16.4.3–16.4.5**
-- [ ] **16.5** Module Quiz
+- [ ] **19.4** work · lab **19.5** · **19.7** Module Quiz
+- [ ] Module **20** labs (**20.1.8**, **20.2.6**) · **20.5** Quiz · **20.6** Checkpoint
+- [ ] Optional: Additional Resources **19.6**, **20.4**
 
 ## Friday
 
@@ -100,30 +108,29 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- **Module 17** Supporting Other OS — Linux (**17.1–17.2**)
+- **Module 21** Using Data Security
+- **Module 22** Implementing Operational Procedures
 
 ### In Class
 
-- Core 2 instruction — Linux features, packages, and network tools
+- Full-day Core 2 — finish remaining modules for the compressed plan
 
 ### Student Work
 
-- [ ] Labs **17.1.7**, **17.1.10**, **17.1.11**, **17.2.4**, **17.2.6**, **17.2.7** as assigned
-- [ ] Lesson reviews **17.1.12**, **17.2.8**
+- [ ] Module **21** labs and **21.6** Module Quiz
+- [ ] Module **22** labs and **22.5** Module Quiz · **22.6** Checkpoint
+- [ ] If **22** is unfinished, plan to complete **Monday Oct 12 PM**
+- [ ] Optional: Additional Resources **21.5**, **22.4**
 
 ## What You Should Know Before Leaving This Week
 
-- Full Windows support and troubleshooting (Module **14**)
-- Windows security and shares (Module **15**)
-- OS install/upgrade concepts (Module **16**)
-- Linux foundations started (Module **17**)
+- Modules **17–22** complete or nearly complete
+- Checkpoint results used to plan who needs extra study in the Oct 15–21 buffer
 
 ## Required Work
 
-- [ ] Finish Module **14** including Additional Resources **14.7**, **14.8** / **14.9**
-- [ ] Finish Module **15** including Additional Resources **15.5** and **15.6** quiz
-- [ ] Finish Module **16** including Additional Resources **16.4** and **16.5** quiz
-- [ ] Complete assigned Module **17.1–17.2** labs and reviews
+- [ ] Finish Modules **17–22** required labs, reviews, quizzes, and checkpoints (spill **22** to Oct 12 PM only if needed)
+- [ ] Optional Additional Resources only if assigned
 
 ## Resources
 

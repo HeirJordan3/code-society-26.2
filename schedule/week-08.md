@@ -1,17 +1,18 @@
-# Week 8 — CS Cert + Modules 20–22 + Core 2 Exam
+# Week 8 — CS Cert + Core 2 Exam Prep + Exam
 
 **Dates:** October 19 – 23, 2026  
 **Status:** Upcoming
 
 ## Weekly Goal
 
-Complete the Customer Service certification test, finish Modules **20–22**, take the Core 2 exam, and prepare for externship.
+Complete the Customer Service certification test, use remaining days for Core 2 study buffer / final prep, take the Core 2 exam, and prepare for externship.
+
+**Modules 11–22 should already be complete** from the compressed plan (target Oct 9; spill Oct 12 PM only if needed).
 
 ## Topics This Week
 
-- Mon: CS cert **9:30 AM – 12:30 PM**; PM Module **20** (+ start **21**)
-- Tue: Finish **21** · Module **22**
-- Wed: Finish **22** · Core 2 exam prep
+- Mon: CS certification test AM · Core 2 review PM
+- Tue–Wed: Final Core 2 prep / remediation buffer
 - Thu: **Core 2 Certification Exam**
 - Fri: Externship prep / transition
 
@@ -22,9 +23,8 @@ CompTIA A+ Core 2 — 220-1202
 
 **Milestones:**
 - Customer Service Certification Test — Monday, October 19, 2026 (**9:30 AM – 12:30 PM**)
-- CompTIA Core 2 Certification Exam — Thursday, October 22, 2026
-
-Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
+- CompTIA Core 2 Certification Exam — Thursday, October 22, 2026  
+- Externship begins — Monday, October 26, 2026
 
 ## Monday
 
@@ -33,20 +33,17 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 ### Topics
 
 - Customer Service Certification Test
-- **Module 20** Supporting Mobile Software · start **Module 21**
+- Core 2 review
 
 ### In Class
 
-- **9:30 AM – 12:30 PM:** **Milestone:** Customer Service Certification Test
-- **~1:00–5:00 PM:** Core 2 — Module **20**; begin Module **21** if time
+- **9:30 AM – 12:30 PM:** **Milestone:** Customer Service Certification Test  
+- **~1:00–5:00 PM:** Core 2 review / weak-spot remediation
 
 ### Student Work
 
 - [ ] Take the Customer Service Certification Test
-- [ ] Labs **20.1.8**, **20.2.6** as assigned
-- [ ] Lesson reviews **20.1.9**, **20.2.7**, **20.3.4**
-- [ ] Additional Resources **20.4.2–20.4.5**
-- [ ] **20.5** Module Quiz · **20.6** Checkpoint Review
+- [ ] Review weak Core 2 domains as assigned
 
 ## Tuesday
 
@@ -54,20 +51,16 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- Finish **Module 21** Using Data Security
-- **Module 22** Implementing Operational Procedures (start)
+- Core 2 final prep / study buffer
 
 ### In Class
 
-- Core 2 instruction — backup/data handling/AI; begin change management, safety, scripting
+- Practice questions, PBQs, one-on-ones, remediation based on checkpoint results
 
 ### Student Work
 
-- [ ] Labs **21.1.3**, **21.1.6**, **21.1.7**, **21.4** as assigned
-- [ ] Lesson reviews **21.1.8**, **21.2.7**, **21.3.5**
-- [ ] Additional Resources **21.5.3–21.5.6**
-- [ ] **21.6** Module Quiz
-- [ ] Begin Module **22** readings
+- [ ] Complete assigned practice / remediation
+- [ ] Use [Cram Quest](https://cram-quest.netlify.app/) as directed
 
 ## Wednesday
 
@@ -75,21 +68,19 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 ### Topics
 
-- Finish **Module 22**
-- Core 2 Exam Prep
+- Core 2 final prep
+- Professional Development (if scheduled 1:00–3:00 PM)
 
 ### In Class
 
-- Complete Module **22**; focused Core 2 review of weak areas
+- Morning: focused exam prep  
+- If PD is scheduled **1:00–3:00 PM**, continue Core 2 review after 3:00  
+- Confirm exam logistics for Thursday
 
 ### Student Work
 
-- [ ] Labs **22.2.8**, **22.3.7**, **22.3.10**, **22.3.11** as assigned
-- [ ] Lesson reviews **22.1.7**, **22.2.9**, **22.3.12**
-- [ ] Additional Resources **22.4.3–22.4.6**
-- [ ] **22.5** Module Quiz · **22.6** Checkpoint Review
-- [ ] Confirm exam logistics for Thursday
-- [ ] Review weak modules using the Core 2 map
+- [ ] Final review of weak areas
+- [ ] Confirm Core 2 exam logistics
 
 ## Thursday
 
@@ -118,24 +109,20 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 ### In Class
 
 - Externship preparation and transition activities
-- Modules **11–22** should be complete
 
 ### Student Work
 
 - [ ] Complete externship prep tasks as assigned
-- [ ] Close out any remaining CertMaster items if needed
 
 ## What You Should Know Before Leaving This Week
 
 - Customer Service certification completed
-- Modules **20–22** completed
 - Core 2 exam completed
-- Externship expectations and next steps
+- Externship expectations for Monday, October 26
 
 ## Required Work
 
 - [ ] Complete Customer Service Certification Test (Mon)
-- [ ] Finish Modules **20–22** labs, reviews, Additional Resources, quizzes, and checkpoints
 - [ ] Complete CompTIA Core 2 Certification Exam (Thu)
 - [ ] Complete externship prep tasks (Fri)
 
@@ -143,6 +130,7 @@ Map: [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
 
 - [Customer Services](../certification/customer-services.md)
 - [Core 2 → CertMaster Map](../resources/core-2-certmaster-map.md)
+- [Cram Quest](https://cram-quest.netlify.app/)
 - [CompTIA A+](../certification/comptia-a-plus.md)
 - [Resources](../resources.md)
 
